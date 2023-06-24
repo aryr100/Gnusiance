@@ -1,0 +1,8 @@
+PRGNAM="lxqt-sudo"
+VERSION="1.3.0"
+HOMEPAGE="https://github.com/lxqt/lxqt-sudo"
+DOWNLOAD="https://github.com/lxqt/lxqt-sudo/releases/download/1.3.0/lxqt-sudo-1.3.0.tar.xz"
+MD5SUM="1417b9af57aebb89131da42a2c0e2a6b"
+REQUIRES=""
+MAINTAINER="Frank Honolka"
+EMAIL="slackernetuk@gmail.com"
