@@ -1,0 +1,14 @@
+PRGNAM="sip6"
+VERSION="6.6.1"
+HOMEPAGE="https://www.riverbankcomputing.com/software/sip/intro"
+DOWNLOAD="https://pypi.python.org/packages/source/s/sip/sip-6.6.1.tar.gz \
+	      https://www.riverbankcomputing.com/hg/sip/raw-rev/d43fc89f7ef2 \
+	      https://www.riverbankcomputing.com/hg/sip/raw-rev/0da96769835f \
+	      https://www.riverbankcomputing.com/hg/sip/raw-rev/a069205270ea"
+MD5SUM="52f4db66138e8cba4a4a9653bd749b04 \
+        87b486d613754e285afe40c973949e7d \
+        85d6e16a035f0a1da3574812acdbcb77 \
+        d08f9bd5925f477407e373978e8676bb"
+REQUIRES=""
+MAINTAINER="Frank Honolka"
+EMAIL="slackernetuk@gmail.com"
